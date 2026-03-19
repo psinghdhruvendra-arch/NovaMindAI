@@ -1,0 +1,2 @@
+# NovaMindAI
+an AI
